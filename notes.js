@@ -16,6 +16,8 @@
 //
 // View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
+
+
 function postAuction() {
   // prompt for info about the item being put up for auction
   inquirer

@@ -22,7 +22,8 @@ create table role (
     id INT NOT NULL AUTO_INCREMENT,
     title varchar(30) NOT NULL,
     salary decimal,
-    department_id varchar(50),
+    department_id int NOT NULL,
+--     foreign key (department_id) references employee (id) on delete cascade,
     PRIMARY KEY (id)
 );
 
