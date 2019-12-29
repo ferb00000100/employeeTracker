@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8262198c-0509-4aec-ae39-4b467edd72fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/employeeTrackerSchema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testQuries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/questions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeTracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/employeeTracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeTrackerSchema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TxIYPhG2svj8x3LhQExxLAQ63h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8262198c-0509-4aec-ae39-4b467edd72fd" name="Default Changelist" comment="" />
+      <created>1574395366389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574395366389</updated>
+      <workItem from="1574395368584" duration="38582000" />
+      <workItem from="1575490530517" duration="6107000" />
+      <workItem from="1575594783134" duration="85000" />
+      <workItem from="1575595048181" duration="744000" />
+      <workItem from="1575595849352" duration="52764000" />
+      <workItem from="1576099769143" duration="1196000" />
+      <workItem from="1576262626193" duration="599000" />
+      <workItem from="1576346518858" duration="119000" />
+      <workItem from="1576346668751" duration="516000" />
+      <workItem from="1576709230997" duration="3513000" />
+      <workItem from="1577306961426" duration="24629000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1574611829843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574611829843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added roles and departments functions&#10;used console.table for formatting">
+      <created>1575498999314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575498999314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added roles and departments functions&#10;used console.table for formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="added roles and departments functions&#10;used console.table for formatting" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575830052992">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="398" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1575830052992" />
+    <state x="436" y="79" key="CommitChangelistDialog2" timestamp="1577639878558">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="436" y="79" key="CommitChangelistDialog2/0.23.1680.978@0.23.1680.978" timestamp="1577639878558" />
+    <state x="466" y="230" key="NewModule_or_Project.wizard" timestamp="1576091390194">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="-1387" y="-215" key="NewModule_or_Project.wizard/-1920.-439.1920.1057/-3840.-439.1920.1057/0.23.1440.829@-1920.-439.1920.1057" timestamp="1575917853306" />
+    <state x="466" y="230" key="NewModule_or_Project.wizard/0.23.1680.978@0.23.1680.978" timestamp="1576091390194" />
+    <state x="416" y="154" key="SettingsEditor" timestamp="1576024468146">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="416" y="154" key="SettingsEditor/0.23.1680.978@0.23.1680.978" timestamp="1576024468146" />
+    <state x="651" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1575595855894">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="651" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.978@0.23.1680.978" timestamp="1575595855894" />
+    <state x="-1352" y="-207" width="670" height="676" key="search.everywhere.popup" timestamp="1576001217066">
+      <screen x="-1920" y="-439" width="1920" height="1057" />
+    </state>
+    <state x="-1352" y="-207" width="670" height="676" key="search.everywhere.popup/-1920.-439.1920.1057/-3840.-439.1920.1057/0.23.1440.830@-1920.-439.1920.1057" timestamp="1576001217066" />
+  </component>
+</project>

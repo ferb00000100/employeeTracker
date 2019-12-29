@@ -18,6 +18,10 @@
 
 
 
+
+
+
+
 function postAuction() {
   // prompt for info about the item being put up for auction
   inquirer
